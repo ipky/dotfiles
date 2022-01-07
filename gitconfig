@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ipkaydnn@gmail.com
+	name = ipek aydin
